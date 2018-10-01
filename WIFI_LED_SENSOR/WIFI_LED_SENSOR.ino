@@ -4,6 +4,7 @@
 #include <dht11.h>
 #include <M5Stack.h>
 dht11 DHT11;
+//AP MODE 만들기 위해 작업하기
 
 #define DHT11PIN 27
 
